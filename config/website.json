@@ -1,13 +1,13 @@
 {
 	"base": {
-		"app_name": "FRE123",
-		"web_host": "https://www.fre123.com",
+		"app_name": "CNJS",
+		"web_host": "https://www.xj.rs",
 		"logo": "https://img.fre123.com/i/2023/11/25/65619e8022505.png"
 	},
 	"seo": {
-		"title": "FRE123 免费资源共享平台",
-		"description": "FRE123 专注于为您提供各种免费优质资源，包括影视资源、动漫番剧、软件工具等。无论您在寻找哪种资源，我们都将尽力为您提供，为您的学习或工作助力",
-		"keywords": "FRE123, 免费资源, 优质资源, 资源聚合, 在线资源, 影视资源, 动漫番剧, 软件工具, 网盘资源",
+		"title": "CNJS 免费资源共享平台",
+		"description": "CNJS 专注于为您提供各种网址导航",
+		"keywords": "CNJS, 免费资源, 优质资源, 资源聚合, 在线资源, 影视资源, 动漫番剧, 软件工具, 网盘资源",
 		"icon": "https://img.fre123.com/i/2023/11/25/65619e791f166.ico"
 	},
 	"header": {
@@ -15,16 +15,16 @@
 			"is_show": true,
 			"list": [
 				{
-					"name": "百度",
-					"url": "https://www.baidu.com/s?wd=",
-					"icon": "https://img.fre123.com/i/2023/11/26/656303de24efc.png",
-					"placeholder": "百度一下，你就知道"
-				},
-				{
 					"name": "谷歌",
 					"url": "https://www.google.com/search?q=",
 					"icon": "https://img.fre123.com/i/2023/11/26/6563038539819.png",
 					"placeholder": "请输入您要搜索的内容..."
+				},
+				{
+					"name": "百度",
+					"url": "https://www.baidu.com/s?wd=",
+					"icon": "https://img.fre123.com/i/2023/11/26/656303de24efc.png",
+					"placeholder": "百度一下，你就知道"
 				},
 				{
 					"name": "必应",
@@ -38,26 +38,26 @@
 			"is_show": true,
 			"group": {
 				"name": "热点榜单",
-				"url": "https://www.fre123.com/news",
+				"url": "https://www.xj.rs/news",
 				"children": [
 					{
 						"name": "新闻热榜",
-						"url": "https://www.fre123.com/news"
+						"url": "https://www.xj.rs/news"
 					},
 					{
 						"name": "技术热榜",
-						"url": "https://www.fre123.com/tech"
+						"url": "https://wwww.xj.rs/tech"
 					},
 					{
 						"name": "精选周刊",
-						"url": "https://www.fre123.com/weekly"
+						"url": "https://www.xj.rs/weekly"
 					}
 				]
 			}
 		}
 	},
 	"pendant": {
-		"is_show": true,
+		"is_show": false,
 		"list": [
 			{
 				"icon_class": "fab fa-weixin",
@@ -90,7 +90,7 @@
 	},
 	"footer": {
 		"right": {
-			"is_show": true,
+			"is_show": false,
 			"list": [
 				{
 					"icon_class": "fas fa-comment-dots",
