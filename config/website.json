@@ -38,19 +38,19 @@
 			"is_show": true,
 			"group": {
 				"name": "热点榜单",
-				"url": "https://www.xj.rs/news",
+				"url": "https://f.xj.rs/news",
 				"children": [
 					{
 						"name": "新闻热榜",
-						"url": "https://www.xj.rs/news"
+						"url": "https://f.xj.rs/news"
 					},
 					{
 						"name": "技术热榜",
-						"url": "https://wwww.xj.rs/tech"
+						"url": "https://f.xj.rs/tech"
 					},
 					{
 						"name": "精选周刊",
-						"url": "https://www.xj.rs/weekly"
+						"url": "https://f.xj.rs/weekly"
 					}
 				]
 			}
